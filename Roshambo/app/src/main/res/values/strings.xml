@@ -1,0 +1,9 @@
+<resources>
+    <!--David Schriver 2019-03-01-->
+    <string name="app_name">Roshambo</string>
+    <string name="win">You\'re Winner!</string>
+    <string name="lose">LOSER!</string>
+    <string name="draw">Wat?</string>
+    <string name="your_move">Your Move</string>
+    <string name="games_move">Game\'s Move</string>
+</resources>
